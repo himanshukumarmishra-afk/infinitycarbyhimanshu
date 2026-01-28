@@ -10,4 +10,10 @@ you can see the home page , about us page and bmw section of new page
 <br>
 click on blue car in this section to see that page where discription of car will be shown
 <br>
-many buttons are clickable so must explre that
+many buttons are clickable so must explore that
+<br>
+<br>
+<br>
+<br>
+further i made frontend for this project
+
